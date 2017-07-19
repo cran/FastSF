@@ -10,7 +10,7 @@ List l0fused_c(arma::vec y, int T0, int max_steps)
   int n = y.n_elem;
   int m = n-1;
   
-  double rho = n^2;
+  double rho = n*n;
   
   arma::vec z = diff(y);
   arma::vec u(m);

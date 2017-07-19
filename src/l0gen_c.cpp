@@ -10,7 +10,7 @@ List l0gen_c(arma::vec y, arma::mat D, int T0, int max_steps, arma::mat ddinv)
   int n = y.n_elem;
   int p=z.n_elem;
 
-  double rho = n^2;
+  double rho = n*n;
 
   arma::uvec A(T0);
   A=A.fill(0);

@@ -1,4 +1,4 @@
-47932a2c3b03f17a58a9ed7af5d7a26b *DESCRIPTION
+cdafddc4c32c03cfe8459e3878bd649e *DESCRIPTION
 e096f63055f87b14abf044df447c6224 *NAMESPACE
 758bcba6168b055a458dfaba6c6837bb *R/RcppExports.R
 22413df14a989eecfe2b606021f512e5 *R/ffused.R
@@ -26,8 +26,8 @@ cc1ea76f11a47b8ea9153a8622fc4792 *man/plotl0.Rd
 2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
 8d46d69896a1f1d31ed76035a0e49d67 *src/Makevars.win
 0af3df76b049959b6c15ad87e7bc1170 *src/RcppExports.cpp
-6da45822c25783520603bf35fdbc27d3 *src/l0fused_c.cpp
-8409950b962e2e289e72251885f912c0 *src/l0gen_c.cpp
-1c65cc8abb26624b36d21a214293d694 *src/l0tf_c.cpp
+b26f3143dcc8c9f7409f75d1136285b6 *src/l0fused_c.cpp
+60d5670778b76bbd749ab1df0ae55e9f *src/l0gen_c.cpp
+ffe31f9d23edb1f64ae961f3c336b821 *src/l0tf_c.cpp
 7c22b1b500cab25872924e218f1645f5 *src/registerDynamicSymbol.c
-009dcc62cb8e8337ab2b9b63500b10fd *src/sl0fused_c.cpp
+b3b6f46fe6f31e663707fb90dfeb6fa5 *src/sl0fused_c.cpp

@@ -13,7 +13,7 @@ List l0tf_c(arma::vec y,int k0,int T0,int max_steps)
   arma::vec u(m);
   u.zeros();
   
-  double rho = n^2;
+  double rho = n*n;
   arma::uvec A(T0);
   A=A.fill(0);
 

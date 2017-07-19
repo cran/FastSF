@@ -7,7 +7,7 @@ using namespace Rcpp;
 List sl0fused_c(arma::vec y, int T0, int T02, int max_steps)
 {
   int n=y.n_elem;
-  double rho = n^2;
+  double rho = n*n;
   int m = n-1;
   
   arma::vec beta = y;
